@@ -1,0 +1,54 @@
+#mid {
+	text-align: center;
+}
+#right {
+	text-align: right;	
+}
+#slant {
+	font-style: italic;
+}
+#bld {
+	font-style: bold;
+}
+
+.box {
+	width: 440px;
+	border: 8px solid #00B214;
+	float: left;
+}
+.rbox {
+	width: 440px;
+	float: right;
+	border: 8px solid #00B214;
+}
+
+body {
+	background-color: #CCFFCC;
+}
+h1 {
+	color: #00B214;
+	font-family: Copperplate;
+	font-style: italic;
+	font-size: 50px;
+}
+h3 {
+	font-family: Copperplate;
+	color: #229954;
+	font-size: 30px;
+	text-align: right;
+}
+p {
+	font-family: JasmineUPC;
+	color: olive;
+}
+
+.pro {
+	color: lime;
+	font-style: italic;
+	font-weight: 800;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
